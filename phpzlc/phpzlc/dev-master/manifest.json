@@ -1,5 +1,5 @@
 {
-  "container": {
-    "hejunjie111": "en"
+  "bundles": {
+    "PHPZlc\\PHPZlc\\Bundle\\PHPZlcBundle": ["all"]
   }
 }
