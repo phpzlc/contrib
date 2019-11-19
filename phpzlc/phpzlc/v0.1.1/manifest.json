@@ -1,5 +1,4 @@
 {
-  "aliases": ["phpzlc"],
   "bundles": {
     "PHPZlc\\PHPZlc\\Bundle\\PHPZlcBundle": ["all"]
   }
