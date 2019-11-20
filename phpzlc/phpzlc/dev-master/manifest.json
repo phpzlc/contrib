@@ -1,8 +1,5 @@
 {
   "bundles": {
     "PHPZlc\\PHPZlc\\Bundle\\PHPZlcBundle": ["all"]
-  },
-  "env": {
-    "yayanzias": "amqp://guest:guest@localhost:5672"
   }
 }
