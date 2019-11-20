@@ -3,6 +3,6 @@
     "PHPZlc\\PHPZlc\\Bundle\\PHPZlcBundle": ["all"]
   },
   "env": {
-    "yayanziq3": "amqp://guest:guest@localhost:5672"
+    "yayanzias": "amqp://guest:guest@localhost:5672"
   }
 }
