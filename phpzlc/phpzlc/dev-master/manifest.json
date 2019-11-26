@@ -3,6 +3,7 @@
     "PHPZlc\\PHPZlc\\Bundle\\PHPZlcBundle": ["all"]
   },
   "copy-from-package": {
-    "Doctrine/ORM/Templates/Repository.tpl.php": "vendor/symfony/maker-bundle/src/Resources/skeleton/doctrine/Repository.tpl.php"
+    "Doctrine/ORM/Rewrite/Templates/Repository.tpl.php": "vendor/symfony/maker-bundle/src/Resources/skeleton/doctrine/Repository.tpl.php",
+    "Doctrine/ORM/Rewrite/Hydration/ObjectHydrator.php": "vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/ObjectHydrator.php"
   }
 }
