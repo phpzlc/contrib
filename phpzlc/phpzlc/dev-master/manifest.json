@@ -8,7 +8,7 @@
     "Doctrine/ORM/Rewrite/MakeEntityRegenerate/ClassSourceManipulator.php": "vendor/symfony/maker-bundle/src/Util/ClassSourceManipulator.php",
     "Doctrine/ORM/Rewrite/MakeEntityRegenerate/EntityRegenerator.php": "vendor/symfony/maker-bundle/src/Doctrine/EntityRegenerator.php",
     "Bundle/phpzml.yaml": "vendor/phpzlc/phpzlc/Bundle/phpzml.yaml",
-    "README.md":"vendor/phpzlc/phpzlc/PROJECT_README.md"
+    "PROJECT_README.md":"README.md"
   },
   "copy-from-recipe": {
     "Business/":"src/Business/"
