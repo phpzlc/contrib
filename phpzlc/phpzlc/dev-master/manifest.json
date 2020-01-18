@@ -9,5 +9,8 @@
     "Doctrine/ORM/Rewrite/MakeEntityRegenerate/EntityRegenerator.php": "vendor/symfony/maker-bundle/src/Doctrine/EntityRegenerator.php",
     "config/packages/phpzml.yml": "vendor/phpzlc/phpzlc/Bundle/phpzml.yaml",
     "README.md":"vendor/phpzlc/phpzlc/PROJECT_README.md"
+  },
+  "copy-from-recipe": {
+     "Business/.gitkeep":"src/Business/.gitkeep"
   }
 }
