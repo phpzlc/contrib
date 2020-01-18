@@ -11,6 +11,6 @@
     "README.md":"vendor/phpzlc/phpzlc/PROJECT_README.md"
   },
   "copy-from-recipe": {
-     "Business/.gitkeep":"src/Business/.gitkeep"
+     "Business/":"src/Business/"
   }
 }
