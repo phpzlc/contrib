@@ -11,7 +11,7 @@
     "PROJECT_README.md":"README.md"
   },
   "copy-from-recipe": {
-    "Business/":"src/Business/",
-    "Controller":"src/Controller"
+    "Bundle/Business/":"src/Business/",
+    "Bundle/Controller":"src/Controller"
   }
 }
