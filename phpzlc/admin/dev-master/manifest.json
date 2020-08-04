@@ -1,0 +1,5 @@
+{
+    "bundles": {
+        "PHPZlc\\Admin\\Bundle\\AdminBundle": ["all"]
+    }
+}
