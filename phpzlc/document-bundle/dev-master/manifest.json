@@ -10,5 +10,9 @@
     },
     "env": {
         "DOC_HOST": "http://dome-api.com"
-    }
+    },
+    "gitignore": [
+        "public/apidoc/"
+    ]
+}
 }
