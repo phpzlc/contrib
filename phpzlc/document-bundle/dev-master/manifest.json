@@ -3,7 +3,7 @@
         "PHPZlc\\Document\\DocumentBundle\\DocumentBundle": ["all"]
     },
     "copy-from-package": {
-        "DocumentBundle/phpzlc-document.yaml":  "config/packages/phpzlc-document.yaml",
+        "DocumentBundle/phpzlc-document.yaml":  "config/packages/phpzlc-document.yaml"
     },
     "copy-from-recipe": {
         "Document/":"src/Document/"
