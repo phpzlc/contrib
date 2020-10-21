@@ -1,0 +1,11 @@
+{
+    "copy-from-package": {
+        "phpzlc-sms.yaml": "config/packages/phpzlc-sms.yaml",
+        "Business/": "src/Business/",
+        "Controller/": "src/Controller/",
+        "DataFixtures/": "src/DataFixtures/",
+        "Entity/": "src/Entity/",
+        "Document/": "src/Document/",
+        "Repository/": "src/Repository/"
+    }
+}
