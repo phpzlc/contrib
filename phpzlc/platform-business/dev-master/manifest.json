@@ -1,5 +1,5 @@
 {
-  "copy-from-package": {
-    "Business/": "src/Business/"
-  }
+    "copy-from-package": {
+        "Business/": "src/Business/"
+    }
 }
