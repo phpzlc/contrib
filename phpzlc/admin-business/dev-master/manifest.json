@@ -5,6 +5,7 @@
       "Controller/": "src/Controller/",
       "Entity/": "src/Entity/",
       "Repository/": "src/Repository/",
-      "templates/": "templates/"
+      "templates/": "templates/",
+      "DataFixtures": "src/DataFixtures/"
     }
 }
