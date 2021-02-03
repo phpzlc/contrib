@@ -6,6 +6,6 @@
       "Entity/": "src/Entity/",
       "Repository/": "src/Repository/",
       "templates/": "templates/",
-      "DataFixtures": "src/DataFixtures/"
+      "DataFixtures/": "src/DataFixtures/"
     }
 }
