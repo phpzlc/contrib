@@ -3,6 +3,7 @@
         "phpzlc-auth.yaml": "config/packages/phpzlc-auth.yaml",
         "Business/": "src/Business/",
         "Entity/": "src/Entity/",
-        "Repository/": "src/Repository/"
+        "Repository/": "src/Repository/",
+        "Doctrine/": "src/Doctrine/"
     }
 }
