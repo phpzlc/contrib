@@ -1,8 +1,7 @@
 {
     "copy-from-package": {
-        "phpzlc-auth.yaml": "config/packages/phpzlc-auth.yaml",
+        "routing/": "config/routing/",
         "Business/": "src/Business/",
-        "Entity/": "src/Entity/",
-        "Repository/": "src/Repository/"
+        "Controller/": "src/Controller/"
     }
 }

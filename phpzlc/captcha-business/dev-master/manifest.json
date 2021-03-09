@@ -1,0 +1,7 @@
+{
+    "copy-from-package": {
+        "Business/": "src/Business/",
+        "Controller/": "src/Controller/",
+        "Repository/": "src/Repository/"
+    }
+}
