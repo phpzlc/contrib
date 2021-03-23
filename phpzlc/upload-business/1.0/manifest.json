@@ -4,6 +4,6 @@
         "Business/": "src/Business/",
         "Controller/": "src/Controller/",
         "public/": "public/",
-        ""
+        "Document/":"src/Document/"
     }
 }
