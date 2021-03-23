@@ -3,6 +3,7 @@
         "phpzlc-sms.yaml": "config/packages/phpzlc-sms.yaml",
         "Business/": "src/Business/",
         "Entity/": "src/Entity/",
-        "Repository/": "src/Repository/"
+        "Repository/": "src/Repository/",
+        "Document/":"src/Document/"
     }
 }

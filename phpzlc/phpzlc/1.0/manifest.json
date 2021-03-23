@@ -12,5 +12,9 @@
     },
     "copy-from-recipe": {
         "Business/":"src/Business/"
-    }
+    },
+    "gitignore": [
+        "/public/upload/*",
+        "!/public/upload/.gitignore"
+    ]
 }
