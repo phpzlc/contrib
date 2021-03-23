@@ -1,5 +1,6 @@
 {
     "copy-from-package": {
-        "Business/": "src/Business/"
+        "Business/": "src/Business/",
+        "phpzlc-platform-business.yaml": "config/packages/phpzlc-platform-business.yaml"
     }
 }
