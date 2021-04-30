@@ -2,7 +2,7 @@
 
 # 技术文档
 
-[食谱文档](https://github.com/symfony/recipes/blob/master/README.rst)
+[食谱书写文档](https://github.com/symfony/recipes/blob/master/README.rst)
 
 # 使用食谱
 
