@@ -1,4 +1,4 @@
-# phpzlc symfony flex contrib (phpzlc 食谱仓库)
+# phpzlc symfony flex contrib (食谱仓库)
 
 # 技术文档
 
