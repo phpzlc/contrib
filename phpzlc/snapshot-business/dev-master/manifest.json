@@ -2,6 +2,6 @@
     "copy-from-package": {
         "Business/": "src/Business/",
         "Entity/": "src/Entity/",
-        "Repository/": "src/Repository/",
+        "Repository/": "src/Repository/"
     }
 }
