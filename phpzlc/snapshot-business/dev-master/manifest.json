@@ -3,6 +3,5 @@
         "Business/": "src/Business/",
         "Entity/": "src/Entity/",
         "Repository/": "src/Repository/",
-        "phpzlc-snapshot-business.yaml": "config/packages/phpzlc-snapshot-business.yaml"
     }
 }
