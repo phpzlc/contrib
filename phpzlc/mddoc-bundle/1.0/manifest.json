@@ -1,0 +1,11 @@
+{
+    "bundles": {
+        "PHPZlc\\MdDoc\\MdDocBundle\\MdDocBundle": ["all"]
+    },
+    "copy-from-package": {
+        "src/MdDocBundle/phpzlc-mddoc.yaml":  "config/packages/phpzlc-mddoc.yaml"
+    },
+    "env": {
+        "MdDocGitHubSSH": ""
+    }
+}
