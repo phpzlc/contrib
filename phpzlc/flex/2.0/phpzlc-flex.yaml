@@ -1,4 +1,3 @@
 services:
-    phpzlc.flex.command.install:
-        class: \PHPZlc\Flex\Bundle\Command\InstallCommand
+    PHPZlc\Flex\Bundle\Command\InstallCommand:
         tags: [ console.command ]
